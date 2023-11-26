@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me<br>I am an experienced full stack web developer with a strong background in front-end and back-end development. Skilled in a variety of programming languages and frameworks, I enjoy tackling complex challenges and finding innovative solutions. With a commitment to staying up-to-date with the latest trends and technologies, I am dedicated to delivering high-quality work and ensuring the success of every project.</h2>
+<p align="left">About me<br>I am an experienced full stack web developer with a strong background in front-end and back-end development. Skilled in a variety of programming languages and frameworks, I enjoy tackling complex challenges and finding innovative solutions. With a commitment to staying up-to-date with the latest trends and technologies, I am dedicated to delivering high-quality work and ensuring the success of every project.</p>
 
 ###
 
